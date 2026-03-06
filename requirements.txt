@@ -1,0 +1,9 @@
+fastapi
+uvicorn==0.24.0
+huggingface-hub==0.19.4
+python-multipart==0.0.6
+yt-dlp==2023.12.30
+pydub==0.25.1
+soundfile==0.12.1
+requests==2.31.0
+numpy
